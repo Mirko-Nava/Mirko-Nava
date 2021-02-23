@@ -17,4 +17,8 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://people.idsia.ch/~mirko.nava/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava/)
-[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
+[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)  
+
+<br/><br/>
+
+[![Mirko Nava GitHub](https://github-readme-stats.vercel.app/api?username=Mirko-Nava)](https://github.com/anuraghazra/github-readme-stats)
