@@ -6,6 +6,7 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 
 #### News and Updates
 
+- **March 2021**, We submitted the article *"Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks"* to IROS2021 - RAL, check it out [here]().
 - **February 2021**, The article *"State-Consistency Loss for Learning Spatial Perception Tasks From Partial Labels"* has been published on the [RAL](https://ieeexplore.ieee.org/document/9345348) journal. Check out the [video](https://www.youtube.com/watch?v=AD69cYFinzc).
 - **January 2021**, The article *"On the benefits of domain adaptation techniques for quality of transmission estimation in optical networks"* has been published on the [JOCN](https://doi.org/10.1364/JOCN.401915) journal.
 - **February 2020**, The work I co-authored *"Path Planning With Local Motion Estimations"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8988152) journal. Download the video [here](https://github.com/idsia-robotics/pplanning-local-estimations/blob/master/video.mp4).
