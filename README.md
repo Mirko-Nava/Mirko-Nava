@@ -1,6 +1,6 @@
 ## Hi there, I'm Mirko Nava
 
-Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html) on Self-Supervised Robot Learning, Domain Adaptation and Uncertainty Awareness.
+Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html) on Self-Supervised Robot Learning and Uncertainty Awareness.
 
 **Looking for an interesting internship opportunity.**
 
