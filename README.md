@@ -6,6 +6,7 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 
 #### News and Updates
 
+- **What I'm up to**, Cross-modal self-supervision using multiple sensors.
 - **July 2021**, The article *"Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks"* has been published on the [RAL](https://doi.org/10.1109/LRA.2021.3095269) journal. Check out the [video](https://www.youtube.com/watch?v=G3cIDRrkfZY).
 - **February 2021**, The article *"State-Consistency Loss for Learning Spatial Perception Tasks From Partial Labels"* has been published on the [RAL](https://ieeexplore.ieee.org/document/9345348) journal. Check out the [video](https://www.youtube.com/watch?v=AD69cYFinzc).
 - **January 2021**, The article *"On the benefits of domain adaptation techniques for quality of transmission estimation in optical networks"* has been published on the [JOCN](https://doi.org/10.1364/JOCN.401915) journal.
