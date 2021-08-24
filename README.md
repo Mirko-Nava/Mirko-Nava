@@ -2,7 +2,7 @@
 
 Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html) on Self-Supervised Robot Learning and Uncertainty Awareness.
 
-**Looking for an internship opportunity in AI.**
+:point_right: **Looking for an interesting internship in AI** :point_left:
 
 #### News and Updates
 
