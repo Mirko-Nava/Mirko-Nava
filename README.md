@@ -11,6 +11,7 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 - **February 2021**, The article *"State-Consistency Loss for Learning Spatial Perception Tasks From Partial Labels"* has been published on the [RAL](https://ieeexplore.ieee.org/document/9345348) journal. Check out the [video](https://www.youtube.com/watch?v=AD69cYFinzc).
 - **January 2021**, The article I co-authored *"On the benefits of domain adaptation techniques for quality of transmission estimation in optical networks"* has been published on the [JOCN](https://doi.org/10.1364/JOCN.401915) journal.
 - **February 2020**, The article I co-authored *"Path Planning With Local Motion Estimations"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8988152) journal. Download the video [here](https://github.com/idsia-robotics/pplanning-local-estimations/blob/master/video.mp4).
+- **April 2019**, Proud to have my article listed in the curated page of *Awesome Self-Supervised Learning* [![Awesome Self-Supervised Learning](https://camo.githubusercontent.com/64f8905651212a80869afbecbf0a9c52a5d1e70beab750dea40a994fa9a9f3c6/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/jason718/awesome-self-supervised-learning#robotics)
 - **February 2019**, My first article *"Learning long-range perception using self-supervision from short-range sensors and odometry"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8624299) journal.
 - **January 2019**, A demo of my work *"Learning to Perceive Long-Range Obstacles Using Self-Supervision from Short-Range Sensors"* has been shown at [AAAI 2019](https://aaai.org/ojs/index.php/AAAI/article/view/5071) in Honolulu HI. Check out the [video](https://www.youtube.com/watch?v=JvtDGO43qew).
 
@@ -19,7 +20,7 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://people.idsia.ch/~mirko.nava/)
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava/)
-[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)  
+[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
 
 <br/><br/>
 
