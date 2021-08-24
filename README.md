@@ -11,7 +11,7 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 - **February 2021**, The article *"State-Consistency Loss for Learning Spatial Perception Tasks From Partial Labels"* has been published on the [RAL](https://ieeexplore.ieee.org/document/9345348) journal. Check out the [video](https://www.youtube.com/watch?v=AD69cYFinzc).
 - **January 2021**, The article I co-authored *"On the benefits of domain adaptation techniques for quality of transmission estimation in optical networks"* has been published on the [JOCN](https://doi.org/10.1364/JOCN.401915) journal.
 - **February 2020**, The article I co-authored *"Path Planning With Local Motion Estimations"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8988152) journal. Download the video [here](https://github.com/idsia-robotics/pplanning-local-estimations/blob/master/video.mp4).
-- **January 2019**, My first article *"Learning long-range perception using self-supervision from short-range sensors and odometry"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8624299) journal.
+- **February 2019**, My first article *"Learning long-range perception using self-supervision from short-range sensors and odometry"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8624299) journal.
 - **January 2019**, A demo of my work *"Learning to Perceive Long-Range Obstacles Using Self-Supervision from Short-Range Sensors"* has been shown at [AAAI 2019](https://aaai.org/ojs/index.php/AAAI/article/view/5071) in Honolulu HI. Check out the [video](https://www.youtube.com/watch?v=JvtDGO43qew).
 
 
