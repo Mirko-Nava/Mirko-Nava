@@ -8,7 +8,7 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 
 - **What I'm up to**, In an internship at [MagicLeap](https://www.magicleap.com) on object localization.
 - **What I was up to**, Self-supervised learning for drone-to-drone localization.
-- **June 2022**, The article *"Visual Servoing with Geometrically Interpretable Neural Perception"* has been accepted for publication on the [IROS 2022](https://iros2022.org) proceedings.
+- **June 2022**, The article I co-authored *"Visual Servoing with Geometrically Interpretable Neural Perception"* has been published on the proceedings of [IROS 2022](https://doi.org/10.1109/IROS47612.2022.9982163).
 - **April 2022**, The article *"Learning Visual Localization of a Quadrotor using its Noise as Self-Supervision"* has been published on the [RAL](https://doi.org/10.1109/LRA.2022.3143565) journal. Check out the [video](https://www.youtube.com/watch?v=fuexj03mGNo).
 - **July 2021**, The article *"Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks"* has been published on the [RAL](https://doi.org/10.1109/LRA.2021.3095269) journal. Check out the [video](https://www.youtube.com/watch?v=G3cIDRrkfZY).
 - **February 2021**, The article *"State-Consistency Loss for Learning Spatial Perception Tasks From Partial Labels"* has been published on the [RAL](https://ieeexplore.ieee.org/document/9345348) journal. Check out the [video](https://www.youtube.com/watch?v=AD69cYFinzc).
