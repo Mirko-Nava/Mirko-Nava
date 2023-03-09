@@ -1,10 +1,16 @@
-## Hi there, I'm Mirko Nava
+# Hi there, I'm Mirko Nava
 
-Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html) on Self-Supervised Robot Learning and Uncertainty Awareness.
+Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http://www.idsia.ch/idsia_en.html), Lugano 🇨🇭, on Self-Supervised Robot Learning and Uncertainty Awareness.
 
-<!-- :point_right: **Looking for an internship in Deep Learning and Computer Vision** :point_left: -->
+Using ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white) I develop ![ROS](https://img.shields.io/badge/ROS-15253E?style=flat&logo=ros&logoColor=white) packages written in ![Python](https://img.shields.io/badge/Python-0078D7?style=flat&logo=python&logoColor=FFDD55) and using ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) for deep learning.
 
-#### News and Updates
+[<img align="left" alt="Website" width="30vmax" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://people.idsia.ch/~mirko.nava/)
+[<img align="left" alt="LinkedIn" width="30vmax" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava/)
+[<img align="left" alt="Google Scholar" width="30vmax" style="filter: invert(70%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
+
+<br/>
+
+### News and Updates
 
 - **What I'm up to**, Self-supervised learning for drone-to-drone localization.
 - **March 2023**, Concluded a 5 months internship at [MagicLeap](https://www.magicleap.com), Zurich office, on weakly/self-supervised object pose estimation with minimal supervision.
@@ -18,13 +24,6 @@ Doing my PhD @ [Robotics Lab](https://idsia-robotics.github.io/) at [IDSIA](http
 - **February 2019**, My first article *"Learning long-range perception using self-supervision from short-range sensors and odometry"* has been published on the [RAL](https://ieeexplore.ieee.org/abstract/document/8624299) journal.
 - **January 2019**, A demo of my work *"Learning to Perceive Long-Range Obstacles Using Self-Supervision from Short-Range Sensors"* has been shown at [AAAI 2019](https://aaai.org/ojs/index.php/AAAI/article/view/5071) in Honolulu HI. Check out the [video](https://www.youtube.com/watch?v=JvtDGO43qew).
 
-
-### Connect with me
-
-[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://people.idsia.ch/~mirko.nava/)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava/)
-[<img align="left" alt="Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
-
-<br/><br/>
+<br/>
 
 [![Mirko Nava GitHub](https://github-readme-stats.vercel.app/api?username=Mirko-Nava)](https://github.com/anuraghazra/github-readme-stats)
