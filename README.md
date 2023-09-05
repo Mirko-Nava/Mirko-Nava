@@ -26,4 +26,4 @@ Using ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-
 
 <br/>
 
-[![Mirko Nava GitHub](https://github-readme-stats.vercel.app/api?username=Mirko-Nava)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Mirko Nava GitHub](https://github-readme-stats.vercel.app/api?username=Mirko-Nava)](https://github.com/anuraghazra/github-readme-stats) -->
