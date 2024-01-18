@@ -12,7 +12,7 @@ Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http:/
 
 ### News and Updates
 
-- **What I'm up to**, Self-supervised learning for drone-to-drone localization.
+- **What I'm up to**, Self-supervised learning for robot-to-robot localization.
 - **December 2023**, Defended my doctoral thesis on *"Self-Supervised Robot Learning for Spatial Perception"*<!--, accessible [here](https://susi.usi.ch/usi/documents/todo) -->.
 - **March 2023**, Concluded a 5 months internship at [MagicLeap](https://www.magicleap.com), Zurich office, on weakly/self-supervised object pose estimation.
 - **June 2022**, The article I co-authored *"Visual Servoing with Geometrically Interpretable Neural Perception"* has been published on the proceedings of [IROS 2022](https://doi.org/10.1109/IROS47612.2022.9982163).
