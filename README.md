@@ -1,8 +1,6 @@
 # Hi there, I'm Mirko Nava
 
-Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http://www.idsia.ch/idsia_en.html) in Lugano 🇨🇭, on Self-Supervised Robot Learning and Uncertainty Awareness.
-
-<!-- Using ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7?style=flat&logo=visual-studio-code&logoColor=white) I develop ![ROS](https://img.shields.io/badge/ROS-15253E?style=flat&logo=ros&logoColor=white) packages written in ![Python](https://img.shields.io/badge/Python-0078D7?style=flat&logo=python&logoColor=FFDD55) and using ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white) for deep learning. -->
+Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http://www.idsia.ch/idsia_en.html) in Lugano 🇨🇭, on Self-Supervised Robot Learning for Visual Perception.
 
 [<img align="left" alt="Website" width="30vmax" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://people.idsia.ch/~mirko.nava/)
 [<img align="left" alt="LinkedIn" width="30vmax" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava/)
@@ -13,6 +11,7 @@ Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http:/
 ### News and Updates
 
 - **What I'm up to**, Self-supervised learning for robot-to-robot localization.
+- **February 2024**, The article *"Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task"* has been published on the [RAL](https://doi.org/10.1109/LRA.2024.3365973) journal. 
 - **December 2023**, Defended my doctoral thesis on *"Self-Supervised Robot Learning for Spatial Perception"*<!--, accessible [here](https://susi.usi.ch/usi/documents/todo) -->.
 - **March 2023**, Concluded a 5 months internship at [MagicLeap](https://www.magicleap.com), Zurich office, on weakly/self-supervised object pose estimation.
 - **June 2022**, The article I co-authored *"Visual Servoing with Geometrically Interpretable Neural Perception"* has been published on the proceedings of [IROS 2022](https://doi.org/10.1109/IROS47612.2022.9982163).
