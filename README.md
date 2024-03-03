@@ -2,9 +2,9 @@
 
 Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http://www.idsia.ch/idsia_en.html) in Lugano 🇨🇭, on Self-Supervised Robot Learning for Visual Perception.
 
-[<img align="left" alt="Website" width="30vmax" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://people.idsia.ch/~mirko.nava/)
-[<img align="left" alt="LinkedIn" width="30vmax" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava/)
-[<img align="left" alt="Google Scholar" width="30vmax" style="filter: invert(70%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
+[<img align="left" alt="Website" width="30vmax" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://mirko.nava.website)
+[<img align="left" alt="LinkedIn" width="30vmax" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava)
+[<img align="left" alt="Google Scholar" width="30vmax" style="filter: invert(50%)" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
 
 <br/>
 
