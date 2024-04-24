@@ -13,7 +13,7 @@ Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http:/
 - **What I'm up to**, Self-supervised learning for robot-to-robot localization.
 - **February 2024**, The article *"Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task"* has been published on the [RAL](https://doi.org/10.1109/LRA.2024.3365973) journal. 
 - **December 2023**, Defended my doctoral thesis on *"Self-Supervised Robot Learning for Spatial Perception"* available [here](
-https://n2t.net/ark:/12658/srd1327660).
+https://susi.usi.ch/usi/documents/327660).
 - **March 2023**, Concluded a 5 months internship at [MagicLeap](https://www.magicleap.com), Zurich office, on weakly/self-supervised object pose estimation.
 - **June 2022**, The article I co-authored *"Visual Servoing with Geometrically Interpretable Neural Perception"* has been published on the proceedings of [IROS 2022](https://doi.org/10.1109/IROS47612.2022.9982163).
 - **April 2022**, The article *"Learning Visual Localization of a Quadrotor using its Noise as Self-Supervision"* has been published on the [RAL](https://doi.org/10.1109/LRA.2022.3143565) journal. Check out the [video](https://www.youtube.com/watch?v=fuexj03mGNo).
