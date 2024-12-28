@@ -2,13 +2,14 @@
 
 Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http://www.idsia.ch/idsia_en.html) in Switzerland 🇨🇭, on Self-Supervised Robot Learning for Visual Perception.
 
-[<img align="left" alt="Website" width="30vmax" src="https://www.iconfinder.com/icons/9034838/download/svg/4096" />](https://mirko.nava.website)
-[<img align="left" alt="LinkedIn" width="30vmax" src="https://www.iconfinder.com/icons/1269936/download/svg/4096" />](https://www.linkedin.com/in/mirko-nava)
-[<img align="left" alt="Google Scholar" width="30vmax" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
+[<img align="left" alt="Website" width="50vmin" src="https://raw.githubusercontent.com/Mirko-Nava/Mirko-Nava/refs/heads/master/img/website.svg" />](https://mirko.nava.website)
+[<img align="left" alt="LinkedIn" width="50vmin" src="https://raw.githubusercontent.com/Mirko-Nava/Mirko-Nava/refs/heads/master/img/linkedin.svg" />](https://www.linkedin.com/in/mirko-nava)
+[<img align="left" alt="Google Scholar" width="50vmin" src="https://raw.githubusercontent.com/Mirko-Nava/Mirko-Nava/refs/heads/master/img/scholar.svg" />](https://scholar.google.com/citations?user=baTfv5MAAAAJ)
 
 <br/>
+<br/>
 
-### News and Updates
+## News
 
 - **What I'm up to**, Self-supervised learning for robot-to-robot localization.
 - **October 2024**, The article *"Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs"* has been published on the proceedings of [IROS 2024](https://ieeexplore.ieee.org/servlet/opac?punumber=10801246) (to appear).
