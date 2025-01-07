@@ -12,7 +12,7 @@ Researcher @ [Robotics Lab](https://idsia-robotics.github.io/) of [IDSIA](http:/
 ## News
 
 - **What I'm up to**, Self-supervised learning for robot-to-robot localization.
-- **October 2024**, The article *"Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs"* has been published on the proceedings of [IROS 2024](https://ieeexplore.ieee.org/servlet/opac?punumber=10801246) (to appear).
+- **October 2024**, The article *"Learning to Estimate the Pose of a Peer Robot in a Camera Image by Predicting the States of its LEDs"* has been published on the proceedings of [IROS 2024](https://doi.org/10.1109/IROS58592.2024.10801959).
 - **September 2024**, The extended abstract *"Multi-LED Classification as Pretext For Robot Heading Estimation"* has been presented at ICRA@40. Check out the [arXiv preprint](https://arxiv.org/abs/2410.04536).
 - **June 2024**, The article I co-authored *"Vision-state Fusion: Improving Deep Neural Networks for Autonomous Robotics"* has been published on the [JIRS](https://link.springer.com/article/10.1007/s10846-024-02091-6) journal.
 - **February 2024**, The article *"Self-Supervised Learning of Visual Robot Localization Using LED State Prediction as a Pretext Task"* has been published on the [RAL](https://doi.org/10.1109/LRA.2024.3365973) journal. 
